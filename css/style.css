@@ -727,7 +727,7 @@ body::after {
 }
 
 .footer__bottom {
-  margin: 1.25rem 0px 0px 0px;
+  margin: 1.25rem 0px 1.25rem 0px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1336,7 +1336,7 @@ body::after {
 
 .seo a {
   font-weight: 500;
-  text-decoration: underline;
+  color: #f4c329;
 }
 
 .seo ul li {
@@ -4580,6 +4580,6 @@ body::after {
   }
 
   .seo a:hover {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
